@@ -17,7 +17,7 @@ export const menuItems = [
     label: "Experience",
     link: "#experience",
     ariaLabel: "Go to experience section",
-    badge: "[1y+]",
+    badge: "[2y+]",
   },
   // {
   //   id: "skills",
