@@ -39,7 +39,7 @@ export default function Navbar() {
         <div className="flex items-center bg-(--white-color) px-3.5 py-1.5 sm:px-4 sm:py-2">
           <span className="w-2.5 h-2.5 bg-green-500 rounded-full animate-pulse mr-2 shrink-0"></span>
           <span className="text-xs sm:text-sm font-medium">
-            Available for New work
+            Open to Work
           </span>
         </div>
 
