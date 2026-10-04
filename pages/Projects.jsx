@@ -71,7 +71,7 @@ function ProjectPanel({ project, index, onVisible }) {
               className="text-sm md:text-base text-white/65 font-light leading-relaxed max-w-md mb-5 line-clamp-3"
             />
 
-            <div className="flex flex-wrap items-center gap-4 opacity-0 translate-y-3 group-hover:opacity-100 group-hover:translate-y-0 transition-all duration-500">
+            <div className="flex flex-wrap items-center gap-4 sm:translate-y-3 group-hover:translate-y-0 transition-all duration-500">
               {project.liveUrl && (
                 <a
                   href={project.liveUrl}
