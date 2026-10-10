@@ -68,7 +68,7 @@ export const projects = [
     period: "",
     featured: false,
     image: "/projects/A2Z_v1.png",
-    linkUrl: "https://a2-z-iota.vercel.app/",
+    liveUrl: "https://a2-z-iota.vercel.app/",
     githubUrl: "",
     description:
       "A2Z website built with Next.js, Tailwind CSS, and Framer Motion.",
@@ -98,7 +98,7 @@ export const projects = [
     period: "",
     featured: false,
     image: "/projects/A2Z_v2.png",
-    linkUrl: "https://a2zwebsite.vercel.app/",
+    liveUrl: "https://a2zwebsite.vercel.app/",
     githubUrl: "",
     description:
       "A2Z website built with Next.js, Tailwind CSS, and Framer Motion.",
