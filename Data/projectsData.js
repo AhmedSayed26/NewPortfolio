@@ -71,7 +71,7 @@ export const projects = [
     liveUrl: "https://a2-z-iota.vercel.app/",
     githubUrl: "",
     description:
-      "A2Z website built with Next.js, Tailwind CSS, and Framer Motion.",
+    "A2Z Media, Production & Strategic Communication provides integrated media and marketing solutions",
     highlights: [
       "Next.js for server-side rendering",
       "Tailwind CSS for styling",
